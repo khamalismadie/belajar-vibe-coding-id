@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Belajar Vibe Coding ID
 
-## Getting Started
+Selamat datang di **belajar-vibe-coding-id**, pusat pembelajaran dan komunitas *Vibe Coding* pertama di Indonesia. Proyek ini didedikasikan untuk membantu developer Indonesia memaksimalkan potensi AI dalam proses pengembangan perangkat lunak dengan pendekatan "Vibe-First".
 
-First, run the development server:
+## 📋 Apa itu Vibe Coding?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*Vibe Coding* adalah gaya pengembangan perangkat lunak di mana Anda lebih fokus pada **intent** (niat) dan deskripsi bahasa alami (natural language), sementara AI menangani implementasi teknisnya. Anda bertindak sebagai **Architect** atau **Product Manager**, dan AI bertindak sebagai **Engine** eksekusi.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🏗️ Struktur Proyek
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `/docs`: Panduan mendalam tentang Vibe Coding, leveling, dan praktik terbaik (Bahasa Indonesia).
+- `/prompts`: Galeri prompt siap pakai untuk berbagai skenario (refactoring, debugging, UI).
+- `/examples`: Contoh proyek nyata yang dibangun menggunakan pendekatan Vibe Coding.
+- `/src`: Kode sumber aplikasi web dokumentasi ini.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Tech Stack
 
-## Learn More
+Proyek ini dibangun menggunakan **The Vibe Stack**:
+- **Framework:** Next.js (App Router)
+- **Styling:** Tailwind CSS + Shadcn/UI
+- **Language:** TypeScript
+- **Deployment:** Vercel
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Kontribusi
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Kami sangat terbuka untuk kontribusi dari komunitas! Silakan cek `CONTRIBUTING.md` (akan segera hadir) untuk melihat bagaimana Anda bisa ikut serta memperkaya galeri prompt atau menulis panduan.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📜 Lisensi
 
-## Deploy on Vercel
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+*Dibuat dengan ❤️ oleh komunitas untuk komunitas.*
